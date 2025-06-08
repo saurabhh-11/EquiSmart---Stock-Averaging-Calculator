@@ -1,0 +1,1 @@
+# EquiSmart-Smart-Stock-Averaging-Calculator
