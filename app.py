@@ -5,7 +5,7 @@ from data_handler import validate_inputs
 
 # Page config with custom theme - MUST be the first Streamlit command
 st.set_page_config(
-    page_title="📊 EquiSmart - Stock Averaging Calculator",
+    page_title="📊 Averra – Precision Averaging for Smarter Growth",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -167,7 +167,7 @@ with st.sidebar:
     st.image("https://img.icons8.com/fluency/96/000000/stocks.png", width=120)
     st.markdown("</div>", unsafe_allow_html=True)
     
-    st.markdown("<h1 style='text-align: center; color: #4CAF50;'>EquiSmart</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: #4CAF50;'>Averra</h1>", unsafe_allow_html=True)
     st.markdown("---")
     
     # Navigation with icons
@@ -188,7 +188,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("""
     <div style='text-align: center; color: #666; font-size: 0.8rem;'>
-        Made with ❤️ by EquiSmart
+        Made with ❤️ by Averra
     </div>
     """, unsafe_allow_html=True)
 
@@ -196,7 +196,7 @@ with st.sidebar:
 st.markdown("""
     <div style='text-align: center; margin-bottom: 2rem;'>
         <h1 style='color: #1f1f1f; font-size: 2.5rem; font-weight: 700;'>
-            📈 EquiSmart: Smart Stock Averaging Calculator
+            📈 Averra – Precision Averaging for Smarter Growth
         </h1>
         <p style='color: #666; font-size: 1.1rem;'>
             Make smarter investment decisions with our advanced averaging calculator
@@ -438,7 +438,7 @@ st.markdown('''
 <hr style="margin-top: 3rem; margin-bottom: 1.5rem; border: none; border-top: 1px solid #e0e0e0;" />
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 1.5rem 0 0.5rem 0;">
     <div style="font-size: 1.1rem; color: #222; font-weight: 600; margin-bottom: 0.3rem; letter-spacing: 0.5px;">
-        EquiSmart – Smarter Stock Averaging
+        Averra — Your Edge in Every Trade
     </div>
     <div style="color: #666; font-size: 0.98rem; margin-bottom: 0.2rem;">
         Empowering investors with intelligent tools and insights.
@@ -449,7 +449,7 @@ st.markdown('''
         </a>
     </div>
     <div style="color: #aaa; font-size: 0.85rem; margin-top: 0.7rem;">
-        &copy; 2025 EquiSmart. All rights reserved.
+        &copy; 2025 Averra. All rights reserved.
     </div>
 </div>
 ''', unsafe_allow_html=True)
