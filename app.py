@@ -164,10 +164,10 @@ st.markdown("""
 with st.sidebar:
     # Logo and title with better spacing
     st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
-    st.image("https://img.icons8.com/fluency/96/000000/stocks.png", width=120)
+    st.image("Averra.png", width=120)
     st.markdown("</div>", unsafe_allow_html=True)
     
-    st.markdown("<h1 style='text-align: center; color: #4CAF50;'>Averra</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: #4CAF50;'></h1>", unsafe_allow_html=True)
     st.markdown("---")
     
     # Navigation with icons
@@ -438,7 +438,7 @@ st.markdown('''
 <hr style="margin-top: 3rem; margin-bottom: 1.5rem; border: none; border-top: 1px solid #e0e0e0;" />
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 1.5rem 0 0.5rem 0;">
     <div style="font-size: 1.1rem; color: #222; font-weight: 600; margin-bottom: 0.3rem; letter-spacing: 0.5px;">
-        Averra — Your Edge in Every Trade
+        Averra – Precision Averaging for Smarter Growth 
     </div>
     <div style="color: #666; font-size: 0.98rem; margin-bottom: 0.2rem;">
         Empowering investors with intelligent tools and insights.
