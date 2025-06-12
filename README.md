@@ -6,7 +6,7 @@ EquiSmart is a simple yet smart stock averaging calculator built using Python an
 ## 🚀 Live Demo
 
 Try the app live here:  
-👉 [EquiSmart Streamlit App](https://equismart-stock-averaging-calculator-aeyaurabnh.streamlit.app/)
+👉 [Averra Streamlit App](https://averraprecisionaveragingforsmartergrowtha.streamlit.app/)
 
 
 ## 📌 Features
